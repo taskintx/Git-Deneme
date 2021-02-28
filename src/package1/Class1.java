@@ -7,6 +7,7 @@ public class Class1 {
 		// Welcome to GitHub Sessions
 		// Thank you for joining
 		// Here is a new commit
+		// Here is your remote change
 	}
 
 }
