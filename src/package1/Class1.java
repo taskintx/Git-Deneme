@@ -8,6 +8,8 @@ public class Class1 {
 		// Thank you for joining
 		// Here is a new commit
 		// Here is an issue in this commit
+		// Here is your remote change
+
 	}
 
 }
