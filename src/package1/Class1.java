@@ -12,6 +12,8 @@ public class Class1 {
 		
 		// Here is another remote action
 
+		// Feature branch has been created
+		
 	}
 
 }
